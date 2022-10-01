@@ -33,7 +33,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
  - ``4. Serão desconsiderados os espaços as linhas em branco, caracteres especiais como: “---------”. E o número do cartão de crédito será retirado os espaços em branco.``
   
  - ``Print do POST efetuado com sucesso:``
-  - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/1.PNG">``
+ - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/1.PNG">``
   
  ## ✔️ Executando o projeto “inclusao-cartao” 
  
@@ -56,7 +56,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
   - ``3. Essa API recebe toda as tentativas de transação recebendo o número do cartão de crédito e o valor da transação. Ao efetuar uma tentativa de transação será feito uma consulta na API de Alunos para validar os dados do cartão de crédito.``  
 
   - ``4. Caso o cartão seja invalidado será registrado na API da Transação como: Recusado. Cartão de Crédito incorreto. Conforme print abaixo.`` 
-  - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/2.PNG">`
+  - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/2.PNG">``
 
   - ``5. Caso o cartão seja validado será registrado na API da Transação como: Autorizado. Conforme print abaixo:``
   - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/3.PNG">``
