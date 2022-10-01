@@ -46,7 +46,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
  - `` 4. A API TransacaoController você pode acessar ela através do Link: http://localhost:8090/transacao. A mesma será mais bem detalhada após a apresentação da API  Autorizada.``
 
  - `` 5. Essa API retorna somente todas ao transações Autorizadas. Transações que foram feitas na API da Autorizada que será apresentada a seguir``
- -
+ 
   ## ✔️ Executando o projeto “inclusao-cartao”
   
   - ``1. Dentro desse projeto temos uma controller/ API: AutorizadaController.`` 
