@@ -81,7 +81,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 
 ## ✔️ Teste Unitário e de Integração: 
 
-- ``Foi realizado teste Unitário e de Integração da API de Aluno e da Autoriza. Ambos e encontram na pasta “test” do projeto. Abaixo os prints:``
+- ``Foi realizado teste Unitário e de Integração da API de Aluno e da Autoriza. Ambos se encontram na pasta “test” do projeto. Abaixo os prints:``
 -
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/6.PNG">
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/7.PNG">
