@@ -35,7 +35,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
  - ``Print do POST efetuado com sucesso:``
  <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/1.PNG">
   
- ## ✔️ Executando o projeto “inclusao-cartao” 
+ ## ✔️ Executando o projeto “api-spring-emissao-cartao"  
  
   - ``1. Dentro desse projeto temos duas controller/ APIs: AlunoController e TransacaoController``
 
@@ -47,7 +47,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 
  - `` 5. Essa API retorna somente todas ao transações Autorizadas. Transações que foram feitas na API da Autorizada que será apresentada a seguir``
  
-  ## ✔️ Executando o projeto “inclusao-cartao”
+  ## ✔️ Executando o projeto “api-spring-autorizada" 
   
   - ``1. Dentro desse projeto temos uma controller/ API: AutorizadaController.`` 
 
