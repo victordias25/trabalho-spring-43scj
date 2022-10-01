@@ -85,8 +85,8 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 -
 - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/6.PNG">``
 - ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/7.PNG">``
-- ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/8.PNG">```
-- ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/9.PNG>```
+- ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/8.PNG">``
+- ``<img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/9.PNG">``
 
 ## ✔️ Técnicas e tecnologias utilizadas
 
