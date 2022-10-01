@@ -19,3 +19,15 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 ## ✔️ Rotas
 
    - ``Todas as rotas para executar via Postman encontram-se na raiz do repositório no arquivo: “API Cartão, Autorizada e Transação.postman_collection.json”`` 
+
+## 🔨 COMO EXECUTAR O PROJETO
+   
+## ✔️ Executando o projeto “inclusao-cartao” 
+
+  1. Abri e executar o projeto “inclusao-cartao” através do IntelliJ IDEA. 
+
+  2. Alterar o caminho do arquivo “lista_alunos.txt” dentro da parta “src”. Alterar conforme sua máquina. 
+
+  3. Ao executar o projeto será feito um  POST na API http://localhost:8090/alunos  
+
+  4. Serão desconsiderados os espaços as linhas em branco, caracteres especiais como: “---------”. E o número do cartão de crédito será retirado os espaços em branco. 
