@@ -15,3 +15,7 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
   - ``2. API da Autorizada usado para validar os dados da transação. Link: http://localhost:8080/autorizada`` 
 
   - ``3. API de Transação usado para consultar todas transações autorizadas e consultar extrato. Link: http://localhost:8090/transacao``  
+
+## ✔️ Rotas
+
+   - ``Todas as rotas para executar via Postman encontram-se na raiz do repositório no arquivo: “API Cartão, Autorizada e Transação.postman_collection.json”`` 
