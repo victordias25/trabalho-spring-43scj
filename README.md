@@ -82,10 +82,17 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 ## ✔️ Teste Unitário e de Integração: 
 
 - ``Foi realizado teste Unitário e de Integração da API de Aluno e da Autoriza. Ambos se encontram na pasta “test” do projeto. Abaixo os prints:``
--
+
+- ``Teste de Integração API Aluno com os métodos "criarUsuarioComDadosCorretos_RetornarStatusCode200" e "criarUsuarioComDadosIncorretos_RetornarStatusCode400"`` 
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/6.PNG">
+
+- ``Teste Unitário API Aluno com os métodos "testeRetornoSucesso_BuscarAlunoRetornaStatusCode200()" e "testeSalvarSucesso_Aluno"``
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/7.PNG">
+
+- ``Teste de Integração API Autorizada com os métodos "criarUsuarioComDadosCorretos_RetornarStatusCode200" e "criarUsuarioComDadosIncorretos_RetornarStatusCode400"`` 
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/8.PNG">
+
+- ``Teste Unitário API Autorizada com os métodos "testeRetornoSucesso_BuscarTransacao" e "testeSalvarSucesso_Transacao"``
 <img src="https://github.com/victordias25/trabalho-spring-43scj/blob/main/img/9.PNG">
 
 ## ✔️ Técnicas e tecnologias utilizadas
@@ -94,6 +101,8 @@ Desenvolvimento de uma solução para emissão de cartão de crédito para ser u
 - ``Swagger``
 - ``InteliJ IDEA``
 - ``Java``
+- ``Teste Unitário`` 
+- ``Teste de Integração``  
 
 ## ✔️ Autores
 - ``Ali Tannouri Neto``
